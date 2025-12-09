@@ -1,8 +1,7 @@
 // 2. Removes duplicates properly after sorting
-
 import java.util.*;
 
-class Main{
+class removeDuplicates{
 	public static void main(String args[]){
 		Scanner scn= new Scanner(System.in);
 		int n= scn.nextInt();
@@ -14,11 +13,9 @@ class Main{
 		}
 
 		List<String> al= UserMainCode.removeDuplicate(arr);
-		
-		for(String s:al){
-			System.out.print(s+" ");
-		}
-		
+			for(String s:al){
+				System.out.print(s+" ");
+			}
 	}
 }
 
