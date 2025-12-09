@@ -1,5 +1,4 @@
 // 3.checks whether the input array contains any 3 consecutive identical numbers [or] findTriplets
-
 import java.util.*;
 
 class Main {
