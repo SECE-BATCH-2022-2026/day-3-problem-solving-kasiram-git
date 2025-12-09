@@ -1,4 +1,6 @@
-// 2. Removes duplicates properly after sorting
+// 5. Removes duplicates properly after sorting
+// Day2 -- Problem 2
+
 import java.util.*;
 
 class removeDuplicates{
