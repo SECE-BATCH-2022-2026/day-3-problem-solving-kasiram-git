@@ -1,4 +1,5 @@
 // 2. CalculateSum skip the two consecutive values if current value is 13
+// Day1 -- Problem 2
 import java.util.*;
 import java.io.*;
 
