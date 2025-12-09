@@ -1,5 +1,4 @@
 // 1.Repeat Front string and number will be provided by user the program must print the first three characters of the string as n times and if the string length is less than 3 the string took as front and print n times. //eg. Mukesh Kumar B, 3 -> Muk Muk Muk
-
 import java.util.*;
 
 class repeatFront{
@@ -11,6 +10,7 @@ class repeatFront{
 		System.out.print(UserMainCode.repeatFront(n,s));
 	}
 }
+
 class UserMainCode{
 	public static String repeatFront(int n, String s){
 		 StringBuilder result=new StringBuilder();
