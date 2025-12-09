@@ -1,7 +1,9 @@
 // 3.checks whether the input array contains any 3 consecutive identical numbers [or] findTriplets
+// Day1 -- Problem 3
+
 import java.util.*;
 
-class Main {
+class findTriplets {
     public static void main(String args[]) {
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
