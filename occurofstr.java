@@ -1,14 +1,15 @@
 // 1. Count the occurrence of the matching string from str2 to str1
-
 import java.io.*;
 import java.util.*;
 
 public class occurofstr{
 	public static void main(String args[]){
-	Scanner sc=new Scanner(System.in);
-	String s1=sc.nextLine();
-	String s2=sc.nextLine();
-	int count=UserMainCode.countOccurances(s1,s2);
+	Scanner scn= new Scanner(System.in);
+		
+	String s1= scn.nextLine();
+	String s2= scn.nextLine();
+	
+	int count= UserMainCode.countOccurances(s1,s2);
 	System.out.println(count);
 	}
 }
