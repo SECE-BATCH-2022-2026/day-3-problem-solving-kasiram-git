@@ -1,5 +1,5 @@
 // 5. Removes duplicates properly after sorting
-// Day2 -- Problem 2
+// Day2 -- Problem 2 
 
 import java.util.*;
 
