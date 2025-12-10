@@ -1,8 +1,9 @@
 // 1. Count the occurrence of the matching string from str2 to str1
+// Day1 -- Problem 1
 import java.io.*;
 import java.util.*;
 
-public class occurofstr{
+public class occurofStr{
 	public static void main(String args[]){
 	Scanner scn= new Scanner(System.in);
 		
