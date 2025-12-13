@@ -4,11 +4,10 @@
 
 // Reference: https://docs.oracle.com/javase/8/docs/api/java/util/regex/Pattern.html
 
-
 import java.util.*;
 import java.util.regex.*;
 
-class paternChecker{
+class patternChecker{
 	public static void main(String args[]){
 		Scanner sc = new Scanner(System.in);
 		String ip = sc.nextLine();
